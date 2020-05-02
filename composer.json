@@ -1,7 +1,7 @@
 {
-    "name": "metapackage/metapackage",
+    "name": "laravel-app/metapackage",
     "type": "metapackage",
-    "description": "Composer Metapackage",
+    "description": "Laravel App Metapackage",
     "license": "MIT",
     "extra": {
         "branch-alias": {
